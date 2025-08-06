@@ -9,7 +9,7 @@ A blockchain-based solution to ensure **fair, transparent, and corruption-free d
 The **Emergency Shelter Token System** is a Solidity smart contract designed to:  
 
 - ✅ **Verify disaster victims** 
-- 🎫 **Issue Shelter Tokens** to verified individuals 
+- 🎫 **Issue Shelter Tokens** to verified individuals  
 - 🏪 **Enable token redemption** at trusted vendors/NGOs
 - 📊 **Track all aid distribution and redemption** transparently on-chain
  
