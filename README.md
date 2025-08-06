@@ -2,7 +2,7 @@
 
 A blockchain-based solution to ensure **fair, transparent, and corruption-free distribution of emergency aid** in disaster-hit areas. 
 
----
+--- 
 
 ## 🧾 What is this? 
  
