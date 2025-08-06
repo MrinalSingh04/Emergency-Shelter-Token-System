@@ -12,7 +12,7 @@ The **Emergency Shelter Token System** is a Solidity smart contract designed to:
 - 🎫 **Issue Shelter Tokens** to verified individuals
 - 🏪 **Enable token redemption** at trusted vendors/NGOs
 - 📊 **Track all aid distribution and redemption** transparently on-chain
-
+ 
 These tokens function like digital aid vouchers, ensuring help reaches the right people when they need it the most.
 
 ---
